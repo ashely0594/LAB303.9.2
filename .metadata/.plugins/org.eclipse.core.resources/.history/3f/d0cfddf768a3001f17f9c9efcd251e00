@@ -1,0 +1,13 @@
+
+public class Doctor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String DoctorName;
+		   String Department;}
+		  public void Doctor_Details() {
+		       System.out.println("Doctor Details...");
+
+	}
+
+}
